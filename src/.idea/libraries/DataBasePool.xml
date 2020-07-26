@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="DataBasePool">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/DataBasePool/mysql-connector-java-8.0.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DataBasePool/mchange-commons-java-0.2.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DataBasePool/c3p0-0.9.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DataBasePool/mchange-commons-java-0.2.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DataBasePool/commons-dbutils-1.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
